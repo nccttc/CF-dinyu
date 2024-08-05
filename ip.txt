@@ -4,8 +4,8 @@
 103.160.204.249#Cloudflare
 154.211.8.193#Cloudflare
 206.238.236.252#Cloudflare
-194.53.53.247#Cloudflare
-194.53.53.6#Cloudflare
+188.244.122.15#Cloudflare
+188.42.88.189#Cloudflare
 194.53.53.253#Cloudflare
 194.53.53.253#Cloudflare
 206.238.237.167#Cloudflare
