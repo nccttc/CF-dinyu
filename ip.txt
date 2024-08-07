@@ -10,7 +10,6 @@
 206.238.236.238#Cogent
 144.24.78.162#cloudflare
 59.3.3.161#KT
-27.102.129.136#cloudflare
 193.122.101.195#cloudflare
 35.78.91.23#cloudflare
 45.32.25.171#cloudflare
