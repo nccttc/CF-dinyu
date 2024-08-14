@@ -31,7 +31,7 @@
 172.64.206.222#电信4Cloudflare
 172.64.198.153#电信5Cloudflare
 54.92.17.121#电信6亚马逊云
-162.159.133.182#移动cloudflare1
-172.67.1.45#移动cloudflare2
-198.41.220.89#移动cloudflare3
-172.67.39.191#移动cloudflare3
+162.159.133.182#移动1cloudflare
+172.67.1.45#移动2cloudflare
+198.41.220.89#移动3cloudflare
+172.67.39.191#移动4cloudflare
