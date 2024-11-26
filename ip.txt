@@ -3,10 +3,10 @@
 103.116.7.21#JP
 154.92.9.6#HK
 154.92.9.20#HK2
-27.50.48.13#cloudflare1
 59.3.3.161#KR-kt.com
 194.53.53.4#cloudflare1
 188.42.88.189#cloudflare2
+27.50.48.13#cloudflare3
 154.211.8.51#Cloudinnovation1
 154.211.8.92#Cloudinnovation2
 154.211.8.193#Cloudinnovation3
