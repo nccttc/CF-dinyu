@@ -5,6 +5,7 @@
 162.159.152.14#cloudflare5
 162.159.153.10#cloudflare6
 162.159.137.194#cloudflare7
+194.53.53.248#cloudflare8
 154.211.8.51#Cloudinnovation1
 154.211.8.92#Cloudinnovation2
 154.211.8.193#Cloudinnovation3
